@@ -8,3 +8,4 @@ RUN mkdir /home/atlantis/.aws
 RUN touch /home/atlantis/.aws/credentials
 
 RUN chown atlantis.atlantis /home/atlantis/ -R
+
